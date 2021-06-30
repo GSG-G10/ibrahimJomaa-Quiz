@@ -1,6 +1,7 @@
 #Quiz App - test students
 
-Test programmers' knowledge and challenge them in short quizzes
+
+# Test programmers' knowledge and challenge them in short quizzes
 
 
 The project is to provide a short test consisting of 10 questions 
@@ -14,4 +15,5 @@ Project preview link : https://gsg-g10.github.io/ibrahimJomaa-Quiz/
 
 
 By: Ibrahim jomaa 
-@div.luffy
+@divluffy
+
