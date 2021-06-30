@@ -1,7 +1,7 @@
 # Quiz App - Test programmers
 
 ## Why
-Test programmers' knowledge and challenge them in short quizzes
+>Test programmers' knowledge and challenge them in short quizzes
 
 ## Description
 - The project is to provide a short test consisting of 10 questions 
@@ -31,8 +31,8 @@ console.log("done")
 
 - By: Ibrahim jomaa
 
-` [linkedin](https://www.linkedin.com/in/divluffy/)
+- [linkedin](https://www.linkedin.com/in/divluffy/)
 - [facebook](https://www.facebook.com/div.luffy/)
 - [instagram](https://www.instagram.com/divluffy/)
-* [twitter](https://twitter.com/divluffy)
+- [twitter](https://twitter.com/divluffy)
 
