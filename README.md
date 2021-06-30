@@ -1,7 +1,7 @@
 # Quiz App - Test programmers
 
 ## Why
->Test programmers' knowledge and challenge them in short quizzes
+Test programmers' knowledge and challenge them in short quizzes
 
 ## Description
 - The project is to provide a short test consisting of 10 questions 
@@ -22,7 +22,7 @@ and increasing his knowledge, and it is classified according to its results.
 
 
 ```js
-console.log("done")
+we used localstorge in app
 ```
 >[Figma link](https://www.figma.com/file/lo2uYuFOM4G2fpLCiqJ9XZ/quiz?node-id=0%3A1)
 
