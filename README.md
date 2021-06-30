@@ -1,7 +1,7 @@
-#Quiz App - test students
+# Quiz App - test students
 
 
-# Test programmers' knowledge and challenge them in short quizzes
+## Test programmers' knowledge and challenge them in short quizzes
 
 
 The project is to provide a short test consisting of 10 questions 
