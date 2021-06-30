@@ -106,13 +106,13 @@ var question = [
 ]
 
 var topUser = [
-    {name: "name name 1", points: 3},
-    {name: "name name 2", points: 2},
-    {name: "name name 4", points: 5},
-    {name: "name name 5", points: 6},
-    {name: "name name 6", points: 8},
-    {name: "name name 8", points: 9},
-    {name: "name name 8", points: 4},
+    {name: "mostafa mnoon", points: 3},
+    {name: "ahmed qadura",points: 2},
+    {name: "narman khateb", points: 5},
+    {name: "baraa shaaban", points: 6},
+    {name: "mones eid", points: 8},
+    {name: "seham jomaa", points: 9},
+    {name: "luffy dragon", points: 4},
 
 ]
 
