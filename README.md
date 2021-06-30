@@ -13,12 +13,12 @@ and increasing his knowledge, and it is classified according to its results.
 ## How to use
 
 - Open the application link below
-` Agree to the terms
-' Enter your name to get started
-Now that you are logged in, you can start the test and you can see the leaderboards
-Never press
-A window will appear for you to choose your answers and move on to the next question at the specified time
-Your result and your new classification has been seen
+- Agree to the terms
+- Enter your name to get started
+- Now that you are logged in, you can start the test and you can see the leaderboards
+- Never press
+- A window will appear for you to choose your answers and move on to the next question at the specified time
+- Your result and your new classification has been seen
 
 
 ```js
