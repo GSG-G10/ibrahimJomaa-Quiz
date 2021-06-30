@@ -8,9 +8,7 @@ var question = [
     },
     right: "3",
     status: false
-    
 },
-
     {ques: 'Which HTML attribute specifies an alternate text for an image?',
     answers: {
         an1: "src",
@@ -83,7 +81,7 @@ var question = [
     right: "3",
     status: false
 },
-    {ques: 'H1 is the correct way of making a header in HTML.',
+    {ques: 'Tag H1 is the correct way of making a header in HTML.',
     answers: {
         an1: "True",
         an2: "False",
