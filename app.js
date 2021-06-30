@@ -83,7 +83,7 @@ var question = [
     right: "3",
     status: false
 },
-    {ques: '<h1>Text</h1> is the correct way of making a header in HTML.',
+    {ques: 'H1 is the correct way of making a header in HTML.',
     answers: {
         an1: "True",
         an2: "False",
@@ -386,5 +386,3 @@ for (let c = 0; c < topUser.length; c++) {
 
 
 }
-
-
