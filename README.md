@@ -4,7 +4,7 @@
 Test programmers' knowledge and challenge them in short quizzes
 
 ## Description
-- The project is to provide a short test consisting of 10 questions 
+The project is to provide a short test consisting of 10 questions 
 in a period of 10 minutes aimed at verifying the programmer's information 
 and increasing his knowledge, and it is classified according to its results.
 
@@ -21,9 +21,6 @@ and increasing his knowledge, and it is classified according to its results.
 - Your result and your new classification has been seen
 
 
-```js
-we used localstorge in app
-```
 >[Figma link](https://www.figma.com/file/lo2uYuFOM4G2fpLCiqJ9XZ/quiz?node-id=0%3A1)
 
 >[Project preview](https://gsg-g10.github.io/ibrahimJomaa-Quiz/)
@@ -31,8 +28,8 @@ we used localstorge in app
 
 - By: Ibrahim jomaa
 
-- [linkedin](https://www.linkedin.com/in/divluffy/)
-- [facebook](https://www.facebook.com/div.luffy/)
-- [instagram](https://www.instagram.com/divluffy/)
-- [twitter](https://twitter.com/divluffy)
+[linkedin](https://www.linkedin.com/in/divluffy/)
+[facebook](https://www.facebook.com/div.luffy/)
+[instagram](https://www.instagram.com/divluffy/)
+[twitter](https://twitter.com/divluffy)
 
