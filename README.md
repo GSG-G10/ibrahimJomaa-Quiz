@@ -31,8 +31,8 @@ console.log("done")
 
 - By: Ibrahim jomaa
 
-`` [linkedin](https://www.linkedin.com/in/divluffy/)
-[facebook](https://www.facebook.com/div.luffy/)
-[instagram](https://www.instagram.com/divluffy/)
-[twitter](https://twitter.com/divluffy)
+` [linkedin](https://www.linkedin.com/in/divluffy/)
+- [facebook](https://www.facebook.com/div.luffy/)
+- [instagram](https://www.instagram.com/divluffy/)
+* [twitter](https://twitter.com/divluffy)
 
