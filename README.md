@@ -4,7 +4,7 @@
 Test programmers' knowledge and challenge them in short quizzes
 
 ## Description
-The project is to provide a short test consisting of 10 questions 
+- The project is to provide a short test consisting of 10 questions 
 in a period of 10 minutes aimed at verifying the programmer's information 
 and increasing his knowledge, and it is classified according to its results.
 
@@ -29,6 +29,10 @@ console.log("done")
 >[Project preview](https://gsg-g10.github.io/ibrahimJomaa-Quiz/)
 
 
-By: Ibrahim jomaa 
-@divluffy
+- By: Ibrahim jomaa
+
+[linkedin](https://www.linkedin.com/in/divluffy/)
+[facebook](https://www.facebook.com/div.luffy/)
+[instagram](https://www.instagram.com/divluffy/)
+[twitter](https://twitter.com/divluffy)
 
