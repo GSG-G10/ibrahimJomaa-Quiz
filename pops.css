@@ -1,0 +1,268 @@
+/* first pop content about  */
+
+
+.pop_about_quiz{
+width: 400px;
+height: 270px;
+background-color: rgb(109, 158, 248);
+position: fixed;
+top: 20%;
+left: 50%;
+transform: translate(-50%, -20%);
+border-radius: 6px;
+padding: 5px;
+align-items: center;
+justify-content: space-between;
+flex-direction: column;
+display: none;
+z-index: 10;
+}
+
+.pop_about_quiz.active{
+display: flex;
+}
+
+.content_about{
+word-wrap: break-word;
+width: 100%;
+height: 220px;
+padding: 5px;
+font-size: 18px;
+line-height: 30px;
+}
+
+.btn_agree button{
+width: 130px;
+height: 40px;
+height: 40px;    
+background-color: rgb(52, 209, 65);
+color: rgb(0, 0, 0);
+font-size: 16px;
+}
+
+.btn_agree button:hover{
+background-color: rgb(50, 192, 62);
+}
+
+
+
+/* pop input name user   -------------------------*/
+
+
+.pop_name_user{
+width: 400px;
+height: 155px;
+background-color: rgb(109, 158, 248);
+position: fixed;
+top: 20%;
+left: 50%;
+transform: translate(-50%, -20%);
+border-radius: 6px;
+padding: 5px;
+align-items: center;
+justify-content: space-between;
+flex-direction: column;
+display: none;
+z-index: 10;
+}
+
+.pop_name_user.active{
+display: flex;
+}
+
+.input_name_user{
+word-wrap: break-word;
+width: 100%;
+height: 220px;
+padding: 10px;
+font-size: 20px;
+}
+
+.input_name_user label{
+display: block;
+padding: 3px;
+}
+
+.input_name_user input{
+display: block;
+height: 40px;
+width: 350px;
+border-radius: 5px;
+margin-top: 10px;
+outline: none;
+border: none;
+padding-left: 7px;
+font-size: 14px;
+}
+
+.btn_send_name button{
+width: 130px;
+height: 40px;    
+background-color: rgb(52, 209, 65);
+color: rgb(0, 0, 0);
+font-size: 16px;
+}
+
+.btn_send_name button:hover{
+background-color: rgb(50, 192, 62);
+}
+
+
+/* pop question start    -----------------------------------------*/
+
+
+.pop_start_quiz{
+width: 700px;
+background-color: rgb(109, 158, 248);
+position: fixed;
+top: 20%;
+left: 50%;
+transform: translate(-50%, -20%);
+border-radius: 6px;
+padding: 5px;
+align-items: center;
+justify-content: space-between;
+flex-direction: column;
+z-index: 10;
+display: none;
+}
+
+.pop_start_quiz.active{
+display: flex;
+}
+
+.number_question{
+width: 80px;
+display: flex;
+align-items: center;
+justify-content: space-between;
+user-select: none;
+}
+
+.bowl{
+width: 30px;
+height:30px;
+border-radius: 50%;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.bowl_now{
+background-color: rgb(253, 136, 136);
+color: #fff;
+}
+
+.bowl_all{
+background-color: rgb(93, 160, 92);
+color: #fff;
+}
+
+._center_between{
+height: 20px;
+width: 3px;
+background-color: rgb(102, 121, 205);
+}
+
+.question_and_options{
+width: 100%;
+padding: 15px;
+}
+
+.question_now{
+width: 100%;
+height: 45px;
+background-color: rgba(189, 189, 189, 0.781);
+display: flex;
+align-items: center;
+padding-left: 5px;
+color: #000;
+border-radius: 5px;
+}
+
+.container_answers{
+height: 200px;
+display: flex;
+justify-content: space-between;
+flex-direction: column;
+margin-top: 10px;
+}
+
+.answer_one{
+width: 80%;
+height: 40px;
+background-color: rgba(167, 167, 167, 0.849);
+color: rgb(20, 18, 18);
+display: flex;
+align-items: center;
+border-radius: 4px;
+}
+
+.answer_one input:checked ~ label{
+background-color: rgb(105, 201, 126);
+}
+
+.answer_one label{
+margin-left: 5px;
+width: 100%;
+height: 100%;
+cursor: pointer;
+display: flex;
+align-items: center;
+padding-left: 5px;
+}
+
+.answer_one input{
+width: 20px;
+cursor: pointer;
+height: 20px;
+margin-left: 5px;
+}
+
+.next_question{
+width: 95%;
+height: 50px;
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+
+.btn_next{
+width: 120px;
+height: 40px;
+color: rgb(0, 0, 0);
+font-size: 16px;
+background-color: rgb(95, 153, 99);
+pointer-events: none;
+}
+
+.btn_next.active{
+pointer-events: all;
+background-color: rgb(52, 209, 65);
+}
+
+.btn_next:hover{
+background-color: rgb(50, 192, 62);
+}
+
+.time_up{
+width: 70px;
+height:35px;
+background-color: rgb(253, 136, 136);
+font-size: 15px;
+}
+
+.layout{
+position: fixed;
+background-color: rgba(16, 17, 19, 0.966);
+width: 100%;
+height: 100%;
+top: 0;
+left: 0;
+z-index: 1;
+display: none;
+}
+
+.layout.active{
+display: inline;
+}

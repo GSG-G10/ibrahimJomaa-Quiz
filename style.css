@@ -1,0 +1,190 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+:root{
+--shd: 0 2px 5px 0 rgba(0, 0, 0, 0.315);
+}
+
+body{
+height: 100vh;
+background-color: rgb(224, 224, 224);
+overflow: hidden;
+}
+
+button{
+border-radius: 5px;
+outline: none;
+border: none;
+cursor: pointer;
+box-shadow: var(--shd);
+}
+
+header{
+width: 100%;
+height: 12%;
+}
+
+.container_header{
+display: flex;
+align-items: center;
+/* justify-content: space-between; */
+height: 100%;
+padding: 0 20px;
+position: relative;
+}
+
+.user_info{
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+
+.img_user{
+width: 60px;
+height:60px;
+}
+
+.img_user img{
+width: 100%;
+height:100%;
+border-radius: 50%;
+object-fit: cover;
+}
+
+.name_user{
+margin-left: 15px;
+font-size: 18px;
+text-transform: capitalize;
+}
+
+
+.start_quiz{
+position: absolute;
+right: 50px;
+background-color: rgb(141, 89, 26);
+}
+
+.start_quiz button{
+width: 150px;
+height: 40px;
+font-size: 17px;
+background-color: deepskyblue;
+color: #fff;
+}
+
+.start_quiz button:hover{
+background-color: rgb(2, 175, 233);
+}
+
+/* satart main content */
+main{
+height: 90%;
+}
+
+.container_main{
+height: 100%;
+padding: 20px;
+display: flex;
+justify-content: space-between;
+}
+
+.top_user{
+width: 300px;
+margin-left: 15px;
+}
+
+.title_top{
+color: rgb(17, 17, 17);
+font-size: 22px;
+background-color: rgb(238, 186, 55);
+padding: 4px;
+border-radius: 4px;
+width: 70%;
+user-select: none;
+}
+
+.all_user_top{
+text-transform: capitalize;
+padding: 3px;
+}
+
+.card_user_info{
+background-color: rgba(59, 160, 255, 0.993);
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding: 2px;
+border-radius: 7px;
+cursor: pointer;
+margin-top: 3px;
+user-select: none;
+}
+
+.card_user_info:hover{
+background-color: rgba(49, 144, 233, 0.993);
+}
+
+._in_side_content{
+display: flex;
+align-items: center;
+}
+
+.name_user_top{
+margin-left: 10px;
+font-size: 18px;
+}
+
+.img_top_user{
+width: 55px;
+height:55px;
+}
+
+.img_top_user img{
+width: 100%;
+height: 100%;
+border-radius: 50%;
+object-fit: cover;
+}
+
+.points_user_top .span1{
+font-size: 28px;
+color: rgb(250, 253, 44);
+}
+
+.points_user_top .span2{
+font-size: 12px;
+}
+
+/* start info after quiz - show data and question */
+
+
+.my_quiz_mark{
+width: 300px;
+height: 300px;
+margin-top: 42px;
+}
+
+.my_mark{
+background-color: rgb(238, 186, 55);
+padding: 7px;
+border-radius: 4px;
+}
+
+.status_question_answer span{
+display: block;
+border-radius: 4px;
+margin-top: 3px;
+padding: 5px;
+}
+
+.good_answer{
+background-color: rgb(96, 230, 107);
+}
+
+.bad_answer{
+background-color: salmon;
+}
