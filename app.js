@@ -119,6 +119,7 @@ var agree_about = document.querySelector('.agree_about')
 var send_name = document.querySelector('.send_name')
 var qustion_and_options = document.querySelector('.qustion_and_options')
 var btn_next = document.querySelector('.btn_next')
+var btn_reload = document.querySelector('.btn_reload')
 var time_up = document.querySelector('.time_up')
 var my_quiz_mark = document.querySelector('.my_quiz_mark')
 var question_and_options = document.querySelector('.question_and_options')
@@ -379,8 +380,12 @@ for (let c = 0; c < topUser.length; c++) {
     </div>
     `
     
-}
+}}
 
 
 
-}
+btn_reload.addEventListener('click',()=>{
+    localStorage.clear()
+    location.reload()
+
+})

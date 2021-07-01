@@ -188,3 +188,24 @@ background-color: rgb(96, 230, 107);
 .bad_answer{
 background-color: salmon;
 }
+
+
+
+.reload{
+
+position: absolute;
+bottom: 50px;
+right: 50px;
+}
+
+
+
+.btn_reload{
+    width: 120px;
+    height: 40px;
+background-color: rgb(236, 234, 234);
+}
+
+.btn_reload:hover{
+background-color: rgb(216, 216, 216);
+}
