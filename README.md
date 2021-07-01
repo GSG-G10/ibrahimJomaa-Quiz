@@ -9,7 +9,6 @@ in a period of 10 minutes aimed at verifying the programmer's information
 and increasing his knowledge, and it is classified according to its results.
 
 
-
 ## How to use
 
 - Open the application link below
@@ -21,6 +20,7 @@ and increasing his knowledge, and it is classified according to its results.
 - Your result and your new classification has been seen
 
 
+## links
 >[Figma link](https://www.figma.com/file/lo2uYuFOM4G2fpLCiqJ9XZ/quiz?node-id=0%3A1)
 
 >[Project preview](https://gsg-g10.github.io/ibrahimJomaa-Quiz/)
