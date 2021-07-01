@@ -9,7 +9,6 @@ in a period of 10 minutes aimed at verifying the programmer's information
 and increasing his knowledge, and it is classified according to its results.
 
 
-
 ## How to use
 
 - Open the application link below
