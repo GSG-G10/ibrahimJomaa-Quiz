@@ -19,8 +19,8 @@ and increasing his knowledge, and it is classified according to its results.
 - A window will appear for you to choose your answers and move on to the next question at the specified time
 - Your result and your new classification has been seen
 
-* links
 
+## links
 >[Figma link](https://www.figma.com/file/lo2uYuFOM4G2fpLCiqJ9XZ/quiz?node-id=0%3A1)
 
 >[Project preview](https://gsg-g10.github.io/ibrahimJomaa-Quiz/)
